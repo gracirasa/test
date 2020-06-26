@@ -181,7 +181,6 @@
 - a [home health agency](facility_type)
 - a [hospital](facility_type)
 - a [nursing home](facility_type)
-- [Austin](location)
 - [676095](facility_id)
 
 ## intent:search_provider
